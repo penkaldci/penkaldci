@@ -1,4 +1,5 @@
 # Hi, I’m @penkaldci![](https://media.tenor.com/3f87UxkcPREAAAAC/troll-troll-face.gif)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=penkaldci)](https://github.com/anuraghazra/github-readme-stats)
 
 I’m interested in ...........  ![](https://j.gifs.com/KzQPxl.gif)
 
