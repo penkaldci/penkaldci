@@ -1,4 +1,4 @@
-# Hi, I’m @penkaldci![](https://media.tenor.com/3f87UxkcPREAAAAC/troll-troll-face.gif)
+# Hi, I’m @penkaldci 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=penkaldci)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=penkaldci&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
