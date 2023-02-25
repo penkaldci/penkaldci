@@ -5,7 +5,7 @@
 I’m interested in ...........  ![](https://j.gifs.com/KzQPxl.gif)
 
 I’m currently learning ... ![](https://media.tenor.com/8sQLwPIcbrQAAAAC/wasd-cat.gif)
-
+![Most Used Languages](https://raw.githubusercontent.com/penkaldci/github-stats-transparent/output/generated/languages.svg)
 I’m looking to collaborate on ...![](https://y.yarn.co/5562a42a-2ef2-4f80-960f-f83e5457a54d_text.gif)
 
 
