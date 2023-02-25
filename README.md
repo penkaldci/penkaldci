@@ -5,7 +5,7 @@
 I’m interested in ...........  ![](https://j.gifs.com/KzQPxl.gif)
 
 I’m currently learning ..
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=penkaldci&layout=compact&theme=buefy&hide_border=true" /></a> |
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=penkaldci&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 I’m looking to collaborate on ...![](https://y.yarn.co/5562a42a-2ef2-4f80-960f-f83e5457a54d_text.gif)
 
